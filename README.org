@@ -1,0 +1,10 @@
+* check-bnf
+
+macro arguments checker for common lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hyotang666/check-bnf.git   |
+| commit  | 22dab4a  |
+| systems | check-bnf |
+|---------+-------------------------------------------|
+
